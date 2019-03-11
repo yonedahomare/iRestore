@@ -1,0 +1,10 @@
+C:\Users\hijiri\Desktop\iRestore\Source\iRestore\bin\Release\iRestore.exe.config
+C:\Users\hijiri\Desktop\iRestore\Source\iRestore\bin\Release\iRestore.exe
+C:\Users\hijiri\Desktop\iRestore\Source\iRestore\bin\Release\iRestore.pdb
+C:\Users\hijiri\Desktop\iRestore\Source\iRestore\obj\Release\iRestore.csprojAssemblyReference.cache
+C:\Users\hijiri\Desktop\iRestore\Source\iRestore\obj\Release\iRestore.FormMain.resources
+C:\Users\hijiri\Desktop\iRestore\Source\iRestore\obj\Release\iRestore.Properties.Resources.resources
+C:\Users\hijiri\Desktop\iRestore\Source\iRestore\obj\Release\iRestore.csproj.GenerateResource.cache
+C:\Users\hijiri\Desktop\iRestore\Source\iRestore\obj\Release\iRestore.csproj.CoreCompileInputs.cache
+C:\Users\hijiri\Desktop\iRestore\Source\iRestore\obj\Release\iRestore.exe
+C:\Users\hijiri\Desktop\iRestore\Source\iRestore\obj\Release\iRestore.pdb
